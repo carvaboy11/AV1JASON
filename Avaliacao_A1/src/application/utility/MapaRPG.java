@@ -76,9 +76,10 @@ public class MapaRPG {
                 break;
             case CHEFE:
                 System.out.println("Enfrentando o Chefe final!");
-                Recompensa.recompensa(heroi);
+                Combate.combateSimples(heroi, chefe.get(0));
                 enfrentouChefe = true;
                 chefeDerrotado = chefe.get(0).estaVivo();
+
                 break;
             default:
                 System.out.println("Evento desconhecido.");
