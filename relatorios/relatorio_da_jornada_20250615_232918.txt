@@ -1,0 +1,21 @@
+===== RELATÓRIO DA JORNADA =====
+
+Data/Hora: 15/06/2025 23:29:18
+
+🧝 Nome do Herói: Arthur
+❤️ Vida Restante: 0
+💪 Força: 0
+🎯 Destreza: 0
+
+💀 Morreu para: Goblin
+
+⚔️ Inimigos enfrentados:
+ - Monstros comuns: 1
+ - Elites: 0
+
+🎴 Cartas adquiridas: 10
+
+🐉 Chefe final enfrentado? Não
+🏆 Chefe foi derrotado? Não
+
+===== FIM DA JORNADA =====
